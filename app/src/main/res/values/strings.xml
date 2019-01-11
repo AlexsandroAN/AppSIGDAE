@@ -1,4 +1,23 @@
 <resources>
-    <string name="app_name">AppSIGDAE</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">SIGDAE</string>
+    //
+    <string name="usuarioHint">Usuário</string>
+    <string name="senhaHint">Senha</string>
+    //
+    <string name="sair">Sair</string>
+    <string name="logout">Logout</string>
+    <string name="voltar">Voltar</string>
+    //
+    <string name="btn_entrar">Entrar</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="search_title">Pesquisar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_vo_dados_obra">VoDadosObra</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_view_paper">ViewPaper</string>
+    <string name="title_activity_view_pager">ViewPager</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

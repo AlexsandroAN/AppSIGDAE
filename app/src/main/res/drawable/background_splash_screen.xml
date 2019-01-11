@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/branco" />
+
+    <item android:top="150dp">
+        <bitmap
+            android:gravity="top"
+            android:src="@drawable/brasao_governo" />
+    </item>
+
+    <item android:bottom="150dp">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/logo_dae_preto" />
+    </item>
+
+
+</layer-list>

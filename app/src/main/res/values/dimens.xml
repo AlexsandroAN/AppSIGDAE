@@ -1,3 +1,8 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="txt_padrao">12sp</dimen>
+    <dimen name="txt_label">17sp</dimen>
+    <dimen name="txt_atributo_titulo">15sp</dimen>
+    <dimen name="txt_atributo">16sp</dimen>
 </resources>
